@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Clientes()
+comment1.params=id\ nombreCliente
+comment1.target=Clientes(int,\ java.lang.String)
+comment2.params=id\ nombreCliente\ saldo
+comment2.target=Clientes(int,\ java.lang.String,\ float)
+comment3.params=id
+comment3.target=void\ setID(int)
+comment4.params=nombreCliente
+comment4.target=void\ setNombreCliente(java.lang.String)
+comment5.params=saldo
+comment5.target=void\ setSaldo(float)
+comment6.params=
+comment6.target=int\ getID()
+comment7.params=
+comment7.target=java.lang.String\ getNombreCliente()
+comment8.params=
+comment8.target=float\ getSaldo()
+numComments=9

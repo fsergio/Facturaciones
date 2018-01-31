@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FacturaVentas()
+comment1.params=idVenta\ fecha
+comment1.target=FacturaVentas(int,\ java.util.Date)
+comment10.params=
+comment10.target=int\ getIdCliente()
+comment11.params=
+comment11.target=float\ getTotal()
+comment2.params=idVenta\ fecha\ idCliente
+comment2.target=FacturaVentas(int,\ java.util.Date,\ int)
+comment3.params=idVenta\ fecha\ idCliente\ total
+comment3.target=FacturaVentas(int,\ java.util.Date,\ int,\ float)
+comment4.params=idVenta
+comment4.target=void\ setIdVenta(int)
+comment5.params=fecha
+comment5.target=void\ setFecha(java.util.Date)
+comment6.params=idCliente
+comment6.target=void\ setIdCliente(int)
+comment7.params=total
+comment7.target=void\ setTotal(float)
+comment8.params=
+comment8.target=int\ getIdVenta()
+comment9.params=
+comment9.target=java.util.Date\ getFecha()
+numComments=12

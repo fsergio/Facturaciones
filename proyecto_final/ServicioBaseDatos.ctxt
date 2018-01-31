@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=cfg
+comment0.target=ServicioBaseDatos(java.lang.String)
+comment0.text=\r\n\ Constructor\ para\ los\ casos\ en\ que\ se\ necesite\ conectar,\ a\ otro\ motor\ de\ base\ de\ datos.\r\n\ <pre>\r\n\ \ \ \ \ \ ServicioBaseDatos\ sbd\ \=\ new\ ServicioBaseDatos(PATH/archivo.Properties);\r\n\ \ \ \ \ \ sbd.conectorFirebird();\r\n\ </pre>\r\n\ @param\ String\ con\ PATH/archivo.Properties.\ Si\ es\ relativo\ a\ directorio\ principal,\ no\ incluya\ PATH.\r\n\ @return\ \r\n
+comment1.params=
+comment1.target=ServicioBaseDatos()
+comment1.text=\r\n\ Constructor\ rapido\ para\ cargar\ un\ archivo\ de\ configuracion\ de\ conexion\ <Firebird>.\r\n\ @exception\ Exception\ FileNotFoundException\ ,\ SecurityException,\ IOException,\ IllegalArgumentException\r\n
+comment2.params=
+comment2.target=java.sql.Connection\ conectorFirebird()
+comment2.text=\r\n\ Conector\ para\ firebird\ 3.0,\ y\ jaybir\ 3.0.1\r\n\ WireCrypt\ \=\ Enabled\r\n\ encoding\ \=\ NONE\ \r\n
+comment3.params=
+comment3.target=java.sql.Connection\ getConexion()
+comment4.params=
+comment4.target=void\ getCFG()
+comment5.params=query
+comment5.target=java.sql.ResultSet\ getR(java.lang.String)
+comment6.params=query
+comment6.target=boolean\ query(java.lang.String)
+comment7.params=
+comment7.target=boolean\ cerrarConexion()
+comment8.params=
+comment8.target=void\ commitear()
+comment9.params=
+comment9.target=boolean\ getIsCon()
+numComments=10

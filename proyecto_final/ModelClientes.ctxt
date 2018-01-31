@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ModelClientes()
+comment1.params=
+comment1.target=int\ getRowCount()
+comment2.params=
+comment2.target=int\ getColumnCount()
+comment3.params=row\ column
+comment3.target=java.lang.Object\ getValueAt(int,\ int)
+comment4.params=column
+comment4.target=java.lang.String\ getColumnName(int)
+comment5.params=c
+comment5.target=java.lang.Class\ getColumnClass(int)
+comment6.params=
+comment6.target=boolean\ recargar()
+numComments=7
